@@ -1,1 +1,9 @@
-print("my first project")
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2018-12-22 20:22:17
+# @Author  : Simon Lee (SimonLeemiao@163.com)
+# @Link    : http://www.cnblogs.com/honkly/
+# @Version : $Id$
+
+import os
+print("this is my first project")
